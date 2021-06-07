@@ -1,0 +1,68 @@
+.flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: -8.02px;
+  min-width: 58px;
+}
+.group-6 {
+  background-size: 100% 100%;
+  height: 10px;
+  margin-left: 14px;
+  margin-top: 0.68px;
+  width: 8px;
+}
+.overlap-group2-6 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: -0.3px;
+  min-height: 64px;
+  width: 50px;
+}
+.overlap-group3-2 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 36px;
+  position: absolute;
+  top: 0;
+}
+.overlap-group4 {
+  height: 44px;
+  position: relative;
+  width: 36px;
+}
+.premium-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 64px;
+  margin-top: 32px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 64px;
+}
+.vector-19 {
+  height: 10px;
+  margin-right: -14.09px;
+  mix-blend-mode: normal;
+  width: 8px;
+}
+.vector-20 {
+  height: 24px;
+  margin-bottom: -2.4px;
+  mix-blend-mode: normal;
+  width: 26px;
+}
+.vector-21 {
+  height: 16px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 10px;
+}

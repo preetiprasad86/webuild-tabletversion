@@ -1,0 +1,85 @@
+.blueprint {
+  align-items: flex-start;
+  display: flex;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 32px;
+}
+.overlap-group2-3 {
+  height: 32px;
+  margin-top: -0.13px;
+  position: relative;
+  width: 32px;
+}
+.vector-10 {
+  height: 14px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+.vector-11 {
+  height: 7px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 7px;
+}
+.vector-12 {
+  height: 8px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+.vector-13 {
+  height: 3px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+.vector-5 {
+  height: 13px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 19px;
+}
+.vector-6 {
+  height: 3px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 2px;
+}
+.vector-7 {
+  height: 27px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+.vector-8 {
+  height: 4px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+.vector-9 {
+  height: 18px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}

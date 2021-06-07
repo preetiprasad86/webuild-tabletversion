@@ -1,0 +1,207 @@
+:root {
+  --abbey: #4f4f4f;
+  --black: #000000;
+  --bon-jour: #e0e0e0;
+  --light-grey: #777777;
+  --mercury: #e5e5e5;
+  --mine-shaft: #333333;
+  --red: #cd424a;
+  --white: #ffffff;
+
+  --font-size-l2: 16px;
+  --font-size-m2: 14px;
+  --font-size-s: 12px;
+  --font-size-xl2: 20px;
+  --font-size-xxl2: 24px;
+  --font-size-xxxl2: 32px;
+  --font-size-xxxxl2: 40px;
+
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-overpass: "Overpass", Helvetica;
+}
+.typographyheadlineh2-extrabold-40 {
+  font-size: var(--font-size-xxxxl2);
+  letter-spacing: -0.4px;
+}
+.typographyheadlineh4-extrabold-24 {
+  font-size: var(--font-size-xxl2);
+  letter-spacing: 0;
+}
+.typographyheadlineh5-extrabold-20 {
+  font-size: var(--font-size-xl2);
+  letter-spacing: 0;
+}
+.typographybody16-regular {
+  font-size: var(--font-size-l2);
+  letter-spacing: 0;
+}
+.typographybodycaption-14-semi-bold {
+  font-size: var(--font-size-m2);
+  letter-spacing: 0;
+}
+.typographybodysmall-12-regular {
+  font-size: var(--font-size-s);
+  letter-spacing: 0;
+}
+.overpass-semi-bold-white-16px-22 {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 600;
+}
+.overpass-semi-bold-white-16px2 {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 600;
+}
+.overpass-semi-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxxl2);
+  font-style: normal;
+  font-weight: 600;
+}
+.overpass-extra-bold-mahogany-40px {
+  color: var(--red);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxxxl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-shark-14px {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-shark-24px {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-sonic-silver-14px {
+  color: var(--light-grey);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-shark-20px {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-white-12px {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-abbey-12px {
+  color: var(--abbey);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-mahogany-12px {
+  color: var(--red);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-semi-bold-mahogany-12px {
+  color: var(--red);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+.overpass-normal-abbey-14px {
+  color: var(--abbey);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-mahogany-24px {
+  color: var(--red);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-sonic-silver-16px {
+  color: var(--light-grey);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxxxl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-extra-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-white-12px-2 {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.inter-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-mine-shaft-20px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-extra-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 800;
+}
+.overpass-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-white {
+  border: 1px solid var(--white);
+}
